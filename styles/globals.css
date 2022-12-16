@@ -4,4 +4,5 @@
 
 .custom-img{
     background: url(/background.jpg);
+    z-index: -100;
 }
